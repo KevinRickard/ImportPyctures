@@ -11,7 +11,7 @@ Creates a file on the root of your volume: imported.txt ; which is used for keep
 
 ### OS compatibility
 
-The script is currently only designed and tested for *Windows (10)* machines, but should be able to be updated to Linux/Mac if you so desire. You'll want to replace all the ctime uses with mtime in that case as ctime is only used by windows.
+The script is currently only designed and tested for **Windows (10)** machines, but should be able to be updated to Linux/Mac if you so desire. You'll want to replace all the ctime uses with mtime in that case as ctime is only used by windows.
 
 ### Getting started
 
